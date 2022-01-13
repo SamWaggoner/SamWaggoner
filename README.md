@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Sam Waggoner
 - 👀 I’m interested in learning and expanding what I can do with code for backend development.
-- 🌱 I have experience with Python, Java, and C#.
+- 🌱 I have experience with Python, Java, and C#. I am currently learning git and JavaScript.
 - 💞️ I use this site as a place to store my work and and also as a platform on which I can learn from others' code.
 
 <!---
