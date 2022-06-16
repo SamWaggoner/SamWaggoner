@@ -1,7 +1,4 @@
-- 👋 Hello, I’m Sam Waggoner
-- 👀 I’m interested in learning and expanding what I can do with code for backend development.
-- 🌱 I have experience with Python, Java, and C#. I am currently learning git and JavaScript.
-- 💞️ I use this site as a place to store my work and and also as a platform on which I can learn from others' code.
+- 👋 Hello, I’m Sam Waggoner. I'm currently a software dev intern at CourseStorm, and also have IT project management experience as an intern at MEMIC. I have experience with Python, Java, PHP, and C#. I am novice with HTML, CSS, and JS. I hope to learn these languages better and to make a project of creating a website. I’m also looking forward to taking a class about AI next semester at UMaine.
 
 <!---
 SamWaggoner/SamWaggoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
